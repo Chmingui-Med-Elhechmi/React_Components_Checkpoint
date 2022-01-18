@@ -1,0 +1,16 @@
+.imgProfile{
+    height: 200px;
+    border-radius: 5%;
+    }
+
+.name{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    color: teal;
+    text-decoration: underline;
+}
+
+.adress{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
